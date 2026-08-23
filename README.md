@@ -51,7 +51,7 @@ Establish a Microsoft 365 tenant with licensed users, stronger authentication an
 
 Established the identity and licensing foundation for the later Intune and Conditional Access labs.
 
-[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab1-M365-Tenant-MFA-Evidence-Final.pdf)
+[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab-01-Microsoft-365-Identity-and-MFA.pdf)
 
 ---
 
@@ -73,7 +73,7 @@ Enrol a Windows virtual machine into cloud management and validate centrally ass
 
 Validated that the Windows device could be enrolled, managed and assessed through Intune.
 
-[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab2-Intune-Enrollment-Policy-Evidence-Final.pdf)
+[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab-02-Intune-Enrollment-and-Compliance.pdf)
 
 ---
 
@@ -96,7 +96,7 @@ Provision a new Windows device through a controlled out-of-box experience with i
 
 Demonstrated cloud-driven Windows provisioning with secure authentication and least-privilege user configuration.
 
-[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab3A-Cloud-DeviceMgmt-Autopilot-Intune-EntraID-Evidence-Final.pdf)
+[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab-03A-Windows-Autopilot-and-Cloud-Management.pdf)
 
 ---
 
@@ -120,7 +120,7 @@ Build a traditional on-premises Windows domain for centralised identity, compute
 
 Created and validated a functioning Active Directory domain environment in VMware.
 
-[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab3B-Local-DeviceMgmt-VMware-ADDS-lab.local-Evidence-Final.pdf)
+[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab-03B-Active-Directory-Domain-Services.pdf)
 
 ---
 
@@ -143,7 +143,7 @@ Manage common identity-support tasks and apply access according to group members
 
 Validated core Active Directory user-lifecycle and access-management tasks used in support and junior administration roles.
 
-[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab4-AD-Lifecycle-Summary-Final.pdf)
+[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab-04-Active-Directory-User-Lifecycle.pdf)
 
 ---
 
@@ -165,7 +165,7 @@ Work through a structured incident lifecycle from user report to investigation, 
 
 Demonstrated a traceable support workflow combining technical troubleshooting with clear service documentation.
 
-[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab5-Ticketing-Windows-Troubleshooting-Summary-Final.pdf)
+[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab-05-Ticketing-and-Windows-Troubleshooting.pdf)
 
 ---
 
@@ -187,7 +187,7 @@ Diagnose common connectivity issues and support a remote Windows endpoint.
 
 Demonstrated foundational network diagnosis and remote-support techniques within a controlled lab.
 
-[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab%206%20%E2%80%93%20Networking%20%2B%20Remote%20Support.pdf)
+[View the full technical documentation (PDF)](https://github.com/guyleonchen/Microsoft-Administration-Foundation-Labs/blob/main/Lab-06-Networking-and-Remote-Support.pdf)
 
 ---
 
